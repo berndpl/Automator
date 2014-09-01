@@ -1,5 +1,7 @@
-Various Image Automation Scripts
+Automator Scripts
 =========
+
+Various Image Automation Scripts
 
 * Resize Image by 50%
 * Convert Image to JPG
